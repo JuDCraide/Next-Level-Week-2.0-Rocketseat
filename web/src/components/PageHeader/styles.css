@@ -63,6 +63,6 @@
 
   .page-header .header-content strong,
   .page-header .header-content p {
-    max-width: 350px;
+    max-width: 35rem;
   }
 }

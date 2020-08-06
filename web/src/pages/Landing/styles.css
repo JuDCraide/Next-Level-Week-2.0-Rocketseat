@@ -113,8 +113,8 @@
 
   .logo-container {
     grid-area: logo;
-	align-self: center;
-	text-align: left;
+    align-self: center;
+    text-align: left;
     margin: 0;
   }
 
@@ -151,7 +151,7 @@
 
   .total-connections {
     grid-area: total;
-	justify-self: end;
-	margin-right: 1.6rem;
+    justify-self: end;
+    margin-right: 1.6rem;
   }
 }
